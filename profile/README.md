@@ -33,7 +33,7 @@
 	</td>
     <td align="center">
 		<img alt="mascot" src="https://raw.githubusercontent.com/pace-kit/.github/main/profile/mascot_standing.png" width="280px">
-		<p>Meet our mascot, Pacey, a curious explorer who loves to discover new worlds and meet new friends. Pacey is always looking for new adventures!
+		<p>Meet our mascot, <b>Pacey Darwin</b>, a curious explorer who loves to discover new worlds and meet new friends. He is always looking for new adventures!
 	</td>
  </tr>
 </table>
