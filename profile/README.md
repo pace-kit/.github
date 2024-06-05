@@ -11,10 +11,11 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-<img alt="mascot" src="https://raw.githubusercontent.com/pace-kit/.github/main/profile/mascot_standing.png" align="right" width="200px">
+<h1>Welcome to PACE</h1>
 
-<div>
-	<h1>Welcome to PACE</h1>
+<img alt="mascot" src="https://raw.githubusercontent.com/pace-kit/.github/main/profile/mascot_standing.png" align="right" width="290px">
+
+<div align="left">
 	<p>We are a community of game developers, designers, and creators who are passionate about building and sharing innovative new ways of creating point-and-click adventure games. We believe in the power of collaboration and the impact that we can make together.</p>
 	<h2>Our Projects</h2>
 	<table>
