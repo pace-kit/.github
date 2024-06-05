@@ -1,4 +1,4 @@
-![banner](./banner_free.png)
+![banner](profile/banner_free.png)
 
 <!--
 
