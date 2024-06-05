@@ -16,7 +16,9 @@
  <tr>
     <td>
 		<h1>Welcome to PACE</h1>
-		<p>We are a community of game developers, designers, and creators who are passionate <br/> about building and sharing innovative new ways of creating point-and-click adventure <br/> games. We believe in the power of collaboration and the impact that we can make together.</p>
+		<p>
+			We are a community of game developers, designers, and creators who are passionate about building and sharing innovative new ways of creating point-and-click adventure games. We believe in the power of collaboration and the impact that we can make together.
+		</p>
 		<h2>Our Projects</h2>
 		<table>
 			<tr>
