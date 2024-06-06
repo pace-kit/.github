@@ -20,7 +20,7 @@
 			about building and sharing innovative new ways of creating point-and-click adventure <br/>
 			games. We believe in the power of collaboration and the impact that we can make together.
 		</p>
-		<h2>Our Projects</h2>
+		<h2>The Kit</h2>
 		<table>
 			<tr>
 				<th><h3 align="center"><a href="https://github.com/pace-kit/pace_core">⚙️🚀<br/>PACE Engine</a></h3></th>
