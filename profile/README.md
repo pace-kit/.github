@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/pace-kit/.github/main/profile/banner_jungle.png)
+![banner](https://raw.githubusercontent.com/pace-kit/.github/main/profile/banner_jungle.jpg)
 
 <!--
 
